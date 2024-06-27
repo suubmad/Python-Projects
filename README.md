@@ -8,6 +8,8 @@
 
   - Messi Pass Map https://github.com/suubmad/Messi_Pass_Map
 
+  - Statsbomb Data First Look https://github.com/suubmad/StatsBomb-First-Look
+
   - Book recommender https://github.com/suubmad/Book_recommender
 
   - RFM Analysis https://github.com/suubmad/RFM_Analysis
