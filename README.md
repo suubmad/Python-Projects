@@ -2,6 +2,8 @@
 
 ## List of the projects I have made with Python
 
+  - World Cup Mbappe Actions https://github.com/suubmad/World-Cup-Mbappe-Actions
+
   - Sofascore Shot Maps Scraping https://github.com/suubmad/Sofascore-Shot-maps-Scraping
 
   - Passing Networks Tutorial https://github.com/suubmad/Passing-Networks-Tutorial
