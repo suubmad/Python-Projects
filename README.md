@@ -4,7 +4,7 @@
 
   - Sofascore Shot Maps Scraping https://github.com/suubmad/Sofascore-Shot-maps-Scraping
 
-  - Passing Netwroks Tutorial https://github.com/suubmad/Passing-Networks-Tutorial
+  - Passing Networks Tutorial https://github.com/suubmad/Passing-Networks-Tutorial
 
   - Python-Data-Structures-tutorial https://github.com/suubmad/Python-Data-Structures-tutorial
 
