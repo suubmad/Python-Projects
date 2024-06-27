@@ -2,6 +2,8 @@
 
 ## List of the projects I have made with Python
 
+  - Sofascore Shot Maps Scraping https://github.com/suubmad/Sofascore-Shot-maps-Scraping
+
   - Passing Netwroks Tutorial https://github.com/suubmad/Passing-Networks-Tutorial
 
   - Python-Data-Structures-tutorial https://github.com/suubmad/Python-Data-Structures-tutorial
