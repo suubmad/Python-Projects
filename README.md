@@ -6,8 +6,6 @@
 
   - Passing Networks Tutorial https://github.com/suubmad/Passing-Networks-Tutorial
 
-  - Python-Data-Structures-tutorial https://github.com/suubmad/Python-Data-Structures-tutorial
-
   - Messi Pass Map https://github.com/suubmad/Messi_Pass_Map
 
   - Book recommender https://github.com/suubmad/Book_recommender
@@ -25,5 +23,7 @@
   - COVID-19 Pandemic Visualizations and ML Models https://github.com/suubmad/covid-19_pandemic_visualizations_and_ml_modelling
 
   - Movies Dataset Analysis https://github.com/suubmad/movies_dataset_analysis
+
+  - Python-Data-Structures-tutorial https://github.com/suubmad/Python-Data-Structures-tutorial
 
   - Python Basics https://github.com/suubmad/python_basics
