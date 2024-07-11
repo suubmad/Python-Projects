@@ -3,6 +3,10 @@
 ## List of the projects I have made with Python
 
 
+  - twitter / x bot https://github.com/suubmad/twitter-bot
+
+  - Euro2024 Shot maps https://github.com/suubmad/euro2024-shots-map
+
   - Sofascore Shot Maps Scraping https://github.com/suubmad/Sofascore-Shot-maps-Scraping
 
   - Passing Networks Tutorial https://github.com/suubmad/Passing-Networks-Tutorial
